@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: consul-service
+
+management:
+  security:
+    enabled: false
+
+server:
+  port: 8083
