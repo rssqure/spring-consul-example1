@@ -4,6 +4,8 @@
 *.ipr
 *.iws
 build/
+*.project
+*.classpath
 .settings/
 src/generated/
 out/
